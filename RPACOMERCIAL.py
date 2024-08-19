@@ -52,7 +52,7 @@ while login is None:
 
 pyautogui.typewrite('gabriela.lopes')
 pyautogui.press('tab')
-pyautogui.typewrite('GA@@2028')
+pyautogui.typewrite('********')
 pyautogui.press('enter')
 
 ######## ESPERAR ICONE DE PRODUÇÃO APARECER E CLICAR NELE ########
@@ -83,7 +83,7 @@ while login2 is None:
 
 pyautogui.typewrite('01-cardosog')
 pyautogui.press('tab')
-pyautogui.typewrite('#Filha200')
+pyautogui.typewrite('*********')
 pyautogui.press('enter')
 time.sleep(10)
 
