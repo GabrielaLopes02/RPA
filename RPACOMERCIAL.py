@@ -16,8 +16,8 @@ print("Inicio da execução:", start_time)
 data_ontem = datetime.now() - timedelta(days=1)
 data_ontem_formatada = data_ontem.strftime("%d%m%Y")
 data_contrato = data_ontem.strftime("%d-%m-%Y")
-# data_ontem_formatada = '02072024'
-# data_contrato = '02-07-2024'
+# data_ontem_formatada = '16082024'
+# data_contrato = '16-08-2024'
 
 pyautogui.PAUSE = 0.7
 
