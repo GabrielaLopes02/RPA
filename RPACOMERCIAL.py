@@ -50,7 +50,7 @@ while login is None:
     if contador >= 12000:
         informError(i)
 
-pyautogui.typewrite('gabriela.lopes')
+pyautogui.typewrite('**************')
 pyautogui.press('tab')
 pyautogui.typewrite('********')
 pyautogui.press('enter')
@@ -81,7 +81,7 @@ while login2 is None:
     if contador >= 12000:
         informError(i)
 
-pyautogui.typewrite('01-cardosog')
+pyautogui.typewrite('***********')
 pyautogui.press('tab')
 pyautogui.typewrite('*********')
 pyautogui.press('enter')
